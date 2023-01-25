@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aadit2697
-- 👀 I’m interested in exploring Data
-- 🌱 I’m currently learning how to :)
+- 👀 An aspiring Data Scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aaditmalikayil@gmail.com
 
