@@ -2,7 +2,7 @@
 I'm a final-year Master's student in Applied Data Science at Syracuse University, with nearly 3 years of experience as a software engineer and data scientist. My expertise includes:
 
 🐍 Python programming for building robust solutions.<br>
-Leveraging AWS services like Lambda, S3, and EC2 for cloud-based deployments.<br>
+:cloud: Leveraging AWS services like Lambda, S3, and EC2 for cloud-based deployments.<br>
 🤖 Developing and implementing deep learning models, including an end-to-end OCR system for my latest stakeholder-driven project.<br>
 I'm passionate about turning data into actionable insights and solving complex problems to create meaningful, real-world impact.
 
